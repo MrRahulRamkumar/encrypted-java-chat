@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Cryptoware:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Cryptoware_jar</output-path>
+    <root id="archive" name="Cryptoware.jar">
+      <element id="module-output" name="Cryptoware" />
+    </root>
+  </artifact>
+</component>
