@@ -2,6 +2,18 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - ServerLauncher",
+            "request": "launch",
+            "mainClass": "ServerLauncher"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ClientLauncher",
+            "request": "launch",
+            "mainClass": "ClientLauncher"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Launchers",
             "request": "launch",
             "mainClass": "Launchers"
